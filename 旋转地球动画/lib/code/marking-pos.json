@@ -1,0 +1,54 @@
+{
+  "marking": [
+    {
+      "textValue": "中国首都-北京",
+      "fontColor": "#c6aa0e",
+      "fontSize": 14,
+      "pos": [116.4551, 40.1439],
+      "data": {
+        "title": "北京",
+        "content": "中国首都"
+      }
+    },
+    {
+      "textValue": "美国首都-华盛顿",
+      "fontColor": "#05a914",
+      "fontSize": 14,
+      "pos": [-77.02182, 38.53707],
+      "data": {
+        "title": "华盛顿",
+        "content": "美国首都"
+      }
+    },
+    {
+      "textValue": "澳大利亚首都-堪培拉",
+      "fontColor": "#05a914",
+      "fontSize": 14,
+      "pos": [149.07, -35.17],
+      "data": {
+        "title": "堪培拉",
+        "content": "澳大利亚首都"
+      }
+    },
+    {
+      "textValue": "新西兰首都-惠灵顿",
+      "fontColor": "#ffffff",
+      "fontSize": 14,
+      "pos": [176.463425, -41.171228],
+      "data": {
+        "title": "惠灵顿",
+        "content": "新西兰首都"
+      }
+    },
+    {
+      "textValue": "加拿大首都-渥太华",
+      "fontColor": "#ffffff",
+      "fontSize": 14,
+      "pos": [-75.43, 45.25],
+      "data": {
+        "title": "渥太华",
+        "content": "加拿大首都"
+      }
+    }
+  ]
+}
